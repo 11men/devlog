@@ -1,7 +1,7 @@
 # devlog
 블로그 포스팅 챌린지 “Devlog”
 
-[인증 내역](https://github.com/orgs/devlog-10/projects/1/views/1)
+[인증 내역](https://github.com/orgs/11men/projects/2)
 
 ## 인증 방법
 
